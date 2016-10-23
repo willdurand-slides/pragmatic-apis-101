@@ -18,7 +18,7 @@ It is formalized as a set of constraints, described in **Roy Fielding**'s PhD di
 
 ### Richardson Maturity Model
 
-![](/images/rmm.png)
+![](images/rmm.png)
 
 ----
 
@@ -122,7 +122,7 @@ It does not have to be **machine-readable** but it is recommended.
 
 ----
 
-![](/images/twitter-example.png)
+![](images/twitter-example.png)
 
 ### Yes.
 
@@ -171,7 +171,7 @@ cannot be
 
 Well-designed, pragmatic, and future-proof APIs.
 
-![](/images/trump.png)
+![](images/trump.png)
 
 
 ----
@@ -193,23 +193,23 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ----
 
-### API Blueprint<br>![](/images/apiblueprint.png)
+### API Blueprint<br>![](images/apiblueprint.png)
 
 ----
 
-### Apiary<br>![](/images/apiary-1.png)
+### Apiary<br>![](images/apiary-1.png)
 
 ----
 
-### Apiary<br>![](/images/apiary-2.png)
+### Apiary<br>![](images/apiary-2.png)
 
 ----
 
-### Aglio<br>![](/images/aglio-example.png)
+### Aglio<br>![](images/aglio-example.png)
 
 ----
 
-![](/images/oai.png)
+![](images/oai.png)
 
 
 (ex-Swagger)
@@ -234,7 +234,7 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ### Moooocks!
 
-(Apiary / [Drakov](https://github.com/Aconex/drakov))<br>![](/images/drakov.gif)
+(Apiary / [Drakov](https://github.com/Aconex/drakov))<br>![](images/drakov.gif)
 
 ---
 
@@ -252,12 +252,12 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ----
 
-![](/images/apiplatform.png)
+![](images/apiplatform.png)
 
 
 ----
 
-![](/images/jsonapi.png)
+![](images/jsonapi.png)
 
 
 ----
@@ -599,11 +599,11 @@ https://github.com/apiaryio/dredd
 
 ----
 
-### Postman<br>![](/images/postman.png)
+### Postman<br>![](images/postman.png)
 
 ----
 
-### Hurl . it<br>![](/images/hurlit.png)
+### Hurl . it<br>![](images/hurlit.png)
 
 ----
 
@@ -666,7 +666,7 @@ Check out [Auth0 article on Symfony](https://auth0.com/docs/quickstart/backend/p
 
 ---
 
-### A: I don't know.<br>![](/images/graphql.png)
+### A: I don't know.<br>![](images/graphql.png)
 
 ---
 
