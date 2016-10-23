@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+
+$content = file_get_contents($argv[1]);
+$content = preg_replace('#:::\s?small\n(.+)\n:::#', "<small>\n\\1\n</small>", $content);
+$content = preg_replace('#{no-border}#', '', $content);
+$content = preg_replace('#{no-bullet}#', '', $content);
+$content = preg_replace('#:fa-([a-z-]+):#', '<i class="fa fa-\1"></i>', $content);
+$content = preg_replace('#:heart:#', '<i class="fa fa-heart"></i>', $content);
+
+echo $content;
