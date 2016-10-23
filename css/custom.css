@@ -1,0 +1,9 @@
+img {
+    border: 0 !important;
+    box-shadow: none !important;
+    background: none !important;
+}
+
+.no-bullet li {
+    list-style-type: none;
+}
