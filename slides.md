@@ -375,6 +375,7 @@ Accept: application/vnd.api+json
     "attributes": {
       "sequence": "ATCGAATCGGTTTAAAATCGATTCCCGAAAA"
     }
+  }
 ]
 ```
 
