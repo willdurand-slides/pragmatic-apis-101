@@ -88,9 +88,9 @@ semantics (_Collection+JSON_, _Atom_).
 Some standards define a lot of application-level semantics but no protocol semantics (_Microformats_, _Microdata_).
 
 <br>
-:::small
+<small>
 &#42; = as described in Richardson and Amundsen's “RESTful Web APIs” book
-:::
+</small>
 
 ----
 
@@ -172,7 +172,7 @@ cannot be
 Well-designed, pragmatic, and future-proof APIs.
 
 ![](http://localhost:8000/images/trump.png)
-{no-border}
+
 
 ----
 
@@ -181,7 +181,7 @@ Well-designed, pragmatic, and future-proof APIs.
 1. Design from a client perspective
 2. Think in terms of **representations**
 3. Stick to HTTP specification
-4. Learn more about JSONAPI :heart:
+4. Learn more about JSONAPI <i class="fa fa-heart"></i>
 
 ----
 
@@ -189,28 +189,28 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ---
 
-## :fa-book: Documentation
+## <i class="fa fa-book"></i> Documentation
 
 ----
 
-### API Blueprint<br>![](http://localhost:8000/images/apiblueprint.png){no-border}
+### API Blueprint<br>![](http://localhost:8000/images/apiblueprint.png)
 
 ----
 
-### Apiary<br>![](http://localhost:8000/images/apiary-1.png){no-border}
+### Apiary<br>![](http://localhost:8000/images/apiary-1.png)
 
 ----
 
-### Apiary<br>![](http://localhost:8000/images/apiary-2.png){no-border}
+### Apiary<br>![](http://localhost:8000/images/apiary-2.png)
 
 ----
 
-### Aglio<br>![](http://localhost:8000/images/aglio-example.png){no-border}
+### Aglio<br>![](http://localhost:8000/images/aglio-example.png)
 
 ----
 
 ![](http://localhost:8000/images/oai.png)
-{no-border}
+
 
 (ex-Swagger)
 
@@ -238,7 +238,7 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ---
 
-## :fa-code: Code
+## <i class="fa fa-code"></i> Code
 
 ----
 
@@ -253,12 +253,12 @@ Well-designed, pragmatic, and future-proof APIs.
 ----
 
 ![](http://localhost:8000/images/apiplatform.png)
-{no-border}
+
 
 ----
 
 ![](http://localhost:8000/images/jsonapi.png)
-{no-border}
+
 
 ----
 
@@ -332,7 +332,7 @@ Accept: application/vnd.api+json
 
 ----
 
-### Sparse Fieldsets :fa-heart:
+### Sparse Fieldsets <i class="fa fa-heart"></i>
 with the `fields` query parameter
 
 ```
@@ -490,7 +490,7 @@ Location: /data/27d99b56
 
 ---
 
-## :fa-check-circle: Testing
+## <i class="fa fa-check-circle"></i> Testing
 
 ----
 
@@ -514,9 +514,9 @@ public function testPOST()
 }
 ```
 
-::: small
+<small>
 Source: https://knpuniversity.com/screencast/rest/testing-phpunit
-:::
+</small>
 
 ----
 
@@ -540,9 +540,9 @@ Scenario: Create a programmer
   And the "nickname" property should equal "ObjectOrienter"
 ```
 
-::: small
+<small>
 Source: https://knpuniversity.com/screencast/rest/testing
-:::
+</small>
 
 ----
 
@@ -598,11 +598,11 @@ https://github.com/apiaryio/dredd
 
 ----
 
-### Postman<br>![](http://localhost:8000/images/postman.png){no-border}
+### Postman<br>![](http://localhost:8000/images/postman.png)
 
 ----
 
-### Hurl . it<br>![](http://localhost:8000/images/hurlit.png){no-border}
+### Hurl . it<br>![](http://localhost:8000/images/hurlit.png)
 
 ----
 
@@ -627,21 +627,21 @@ jsonapi() {
 
 ----
 
-### :fa-book: Documentation
+### <i class="fa fa-book"></i> Documentation
 1. Very important
 1. Write it **first**
 1. Test it
 
 ----
 
-### :fa-code: Code
-1. I :heart: JSON API
+### <i class="fa fa-code"></i> Code
+1. I <i class="fa fa-heart"></i> JSON API
 1. It is OK not to be 100% REST compliant
 1. **TEST YOUR API!**
 
 ----
 
-### :fa-check-circle: Testing
+### <i class="fa fa-check-circle"></i> Testing
 
 1. No excuse!
 1. No excuse!
@@ -651,7 +651,7 @@ jsonapi() {
 
 ## One More Thing
 
-I did not talk about :fa-lock: **security**, but:
+I did not talk about <i class="fa fa-lock"></i> **security**, but:
 <br>
 <br>
 
@@ -665,14 +665,14 @@ Check out [Auth0 article on Symfony](https://auth0.com/docs/quickstart/backend/p
 
 ---
 
-### A: I don't know.<br>![](http://localhost:8000/images/graphql.png){no-border}
+### A: I don't know.<br>![](http://localhost:8000/images/graphql.png)
 
 ---
 
 ## Thank you.
 #### Questions?
 
-* :fa-globe: williamdurand.fr
-* :fa-github: github.com/willdurand
-* :fa-twitter: [@couac](https://twitter.com/couac)
-{no-bullet}
+* <i class="fa fa-globe"></i> williamdurand.fr
+* <i class="fa fa-github"></i> github.com/willdurand
+* <i class="fa fa-twitter"></i> [@couac](https://twitter.com/couac)
+
