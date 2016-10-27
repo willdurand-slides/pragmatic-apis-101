@@ -110,7 +110,7 @@ It does not have to be **machine-readable** but it is recommended.
 * _XMDP_ (for _XHTML_ documents)
 * _**ALPS**_ (_XMDP_ on steroids)
 * Embedded doc. (as in _HAL_/_Siren_)
-* _JSON-LD_
+* _JSON-LD_, _**JSON Schema**_
 
 ---
 
@@ -174,19 +174,6 @@ Well-designed, pragmatic, and future-proof APIs.
 ![](images/trump.png)
 
 
-----
-
-### How?
-
-1. Design from a client perspective
-2. Think in terms of **representations**
-3. Stick to HTTP specification
-4. Learn more about JSONAPI <i class="fa fa-heart"></i>
-
-----
-
-### No. Seriously, how?
-
 ---
 
 ## <i class="fa fa-book"></i> Documentation
@@ -236,6 +223,34 @@ Well-designed, pragmatic, and future-proof APIs.
 
 (Apiary / [Drakov](https://github.com/Aconex/drakov))<br>![](images/drakov.gif)
 
+----
+
+### JSON Schema
+
+(Apiary / Aglio thanks to MSON)
+
+```
++ Attributes
+    + data (object)
+    	+ id: `123` (string, required) - The identifier
+```
+
+``` json
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "The identifier" }
+      },
+      "required": [ "id" ]
+    }
+  }
+}
+```
+
 ---
 
 ## <i class="fa fa-code"></i> Code
@@ -279,7 +294,8 @@ Well-designed, pragmatic, and future-proof APIs.
   "links": {
     "parent": "/data/27d99b56",
     "self": "/data/27d99b56/41c6cf",
-    "source": "https://example.org/demo-sequence.fasta"
+    "source": "https://example.org/demo-sequence.fasta",
+    "profile": "/profiles/data/sequence"
   }
 }
 ```
@@ -297,7 +313,8 @@ Well-designed, pragmatic, and future-proof APIs.
       "title":  "Not Found",
       "detail": "The URL you are trying to reach does not exist.",
       "links": {
-        "about": "https://httpstatuses.com/404"
+        "about": "https://httpstatuses.com/404",
+        "profile": "/profiles/errors"
       }
     }
   ]
@@ -488,6 +505,8 @@ Location: /data/27d99b56
 * JSON API helps writing REST APIs
 
 * It is OK to take shortcuts (sometimes)
+
+* JSON schema for (application) semantics
 
 ---
 
