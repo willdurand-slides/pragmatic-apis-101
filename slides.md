@@ -227,7 +227,7 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ### JSON Schema
 
-(Apiary / Aglio thanks to MSON)
+(Apiary / Aglio thanks to [MSON](https://help.apiary.io/api_101/mson-tutorial/))
 
 ```
 + Attributes
@@ -612,6 +612,8 @@ http://frisbyjs.com
 ----
 
 ### Dredd (for API doc)
+
+![](images/dredd.png)
 
 -----
 https://github.com/apiaryio/dredd
