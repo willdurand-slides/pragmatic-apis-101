@@ -1,6 +1,6 @@
 # Pragmatic APIs 101
 
-_William Durand — October 29th, 2016_
+_William Durand — October 29th, 2016 — Symfony Camp :ua:_
 
 ---
 
@@ -58,10 +58,7 @@ Your application is just a big **state machine**.
 
 ### Resource vs Representation
 
-A **resource** can be anything, and can have<br>more than one representation.
-<br>
-<br>
-A **representation** describes resource state.
+A **resource** can be anything, and can have more than one representation. A **representation** describes resource state.
 
 ----
 
@@ -73,7 +70,7 @@ How the underlying resource should behave under HTTP?
 
 ### Application Semantics
 
-What, **specifically**, will happen to
+What, **specifically**, will happen to the
 <br>application or resource state?
 
 ----
@@ -96,11 +93,11 @@ Some standards define a lot of application-level semantics but no protocol seman
 
 ### Profiles
 
-A **profile** is **defined** to not alter the semantics of the resource representation
-itself, but **to allow clients to learn about additional semantics**, [RFC 6906](https://tools.ietf.org/html/rfc6906).
+A **profile** is **defined** to not alter the semantics of the<br>resource representation
+itself, but **to allow clients to<br>learn about additional semantics**, [RFC 6906](https://tools.ietf.org/html/rfc6906).
 <br>
 <br>
-It does not have to be **machine-readable** but it is recommended.
+Does not have to be **machine-readable** but recommended.
 
 ----
 
@@ -137,6 +134,16 @@ The REST CookBook_.
 
 ----
 
+### No Relations = No REST
+
+_[If the engine of application state (and hence the
+API)
+<br>is not being driven by hypertext, then it
+cannot be
+<br>RESTful and cannot be a REST API](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven), Roy Fielding_.
+
+----
+
 ### s/REST/HTTP++/
 
 REST APIs are a myth, _i.e._ too complex in real life.
@@ -149,17 +156,7 @@ REST](http://www.timelessrepo.com/haters-gonna-hateoas), Steve Klabnik_.
 
 ----
 
-### No Relations = No REST
-
-_[If the engine of application state (and hence the
-API)
-<br>is not being driven by hypertext, then it
-cannot be
-<br>RESTful and cannot be a REST API](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven), Roy Fielding_.
-
-----
-
-### Are we all screwed and should we all jump to GraphQL?
+### Are we all screwed and should<br>we all jump to GraphQL?
 
 ----
 
@@ -196,29 +193,6 @@ Well-designed, pragmatic, and future-proof APIs.
 
 ----
 
-![](http://localhost:8000/images/oai.png)
-{no-border}
-
-(ex-Swagger)
-
-----
-
-### Symfony/PHP
-
-* NelmioApiDocBundle ([#900](https://github.com/nelmio/NelmioApiDocBundle/issues/900))
-* [A Tool to Convert NelmioApiDocBundle to Swagger PHP](https://blog.liip.ch/archive/2016/05/11/convert-nelmioapidocbundle-to-swagger-php.html) by Liip (blog post)
-* [Jane](https://github.com/janephp/jane) (JSON Schema) and [Jane Open Api](https://github.com/janephp/openapi) (Open API)
-
-----
-
-### Advices
-
-* Write documentation first, then code
-* Must be under version control
-* Test your documentation (build / [Dredd](https://github.com/apiaryio/dredd))
-
-----
-
 ### Moooocks!
 
 (Apiary / [Drakov](https://github.com/Aconex/drakov))<br>![](http://localhost:8000/images/drakov.gif)
@@ -250,6 +224,30 @@ Well-designed, pragmatic, and future-proof APIs.
   }
 }
 ```
+
+----
+
+![](http://localhost:8000/images/oai.png)
+{no-border}
+
+(ex-Swagger)
+
+----
+
+### Symfony/PHP
+
+* NelmioApiDocBundle ([#900](https://github.com/nelmio/NelmioApiDocBundle/issues/900))
+* [A Tool to Convert NelmioApiDocBundle to Swagger PHP](https://blog.liip.ch/archive/2016/05/11/convert-nelmioapidocbundle-to-swagger-php.html) by Liip (blog post)
+* [Jane](https://github.com/janephp/jane) (JSON Schema) and [Jane Open Api](https://github.com/janephp/openapi) (Open API)
+
+----
+
+### Advices
+
+* Write documentation first, then code
+* Must be under version control
+* Test your documentation (build / [Dredd](https://github.com/apiaryio/dredd))
+
 
 ---
 

@@ -7,6 +7,7 @@ $content = preg_replace('#{no-border}#', '', $content);
 $content = preg_replace('#{no-bullet}#', '', $content);
 $content = preg_replace('#:fa-([a-z-]+):#', '<i class="fa fa-\1"></i>', $content);
 $content = preg_replace('#:heart:#', '<i class="fa fa-heart"></i>', $content);
+$content = preg_replace('#:ua:#', 'UA', $content);
 $content = preg_replace('#http://localhost:8000/#', '', $content);
 
 file_put_contents("slides.md", $content);
