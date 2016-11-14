@@ -1,8 +1,3 @@
----
-transition: convex
-logo: 'https://raw.githubusercontent.com/jmaupetit/let-s-open-science-and-research-data/gh-pages/images/Logo_TailorDev_Square_100px.png'
----
-
 ## `$ ./academia2industry`
 
 #### Julien maupetit, PhD
@@ -86,9 +81,9 @@ Image credit: David S. Goodsell -- [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.d
 
 **2005 - 2007** -- _PhD_
 
-> Génération ab initio de modèles protéiques à
-partir de représentations discrètes des protéines
-et de critères d’énergie simplifiés.
+> Génération ab initio de modèles protéiques à
+partir de représentations discrètes des protéines
+et de critères d'énergie simplifiés.
 
 ----
 
@@ -167,7 +162,7 @@ Hexokinase induced fit. Source: [wikipedia](https://en.wikipedia.org/wiki/Enzyme
 
 ### 2012
 
-#### San Diego, CA 
+#### San Diego, CA
 _versus_
 #### Clermont-Ferrand
 
@@ -183,7 +178,7 @@ _versus_
 
 ----
 
-#### Co-founder of 
+#### Co-founder of
 
 ### [@clermontech](https://twitter.com/clermontech)
 
@@ -200,7 +195,7 @@ _versus_
 
 ### The big picture.
 
-> Our mission is to develop modern tools to ease scientific work and promote **Open Data**, **Open Science** and **Open Source** in research entities. 
+> Our mission is to develop modern tools to ease scientific work and promote **Open Data**, **Open Science** and **Open Source** in research entities.
 
 [https://tailordev.fr](https://tailordev.fr)
 
@@ -216,7 +211,7 @@ _versus_
 ----
 
 #### That's nice, but...
-### what is your "real job" now? 
+### what is your "real job" now?
 
 ![](http://i.giphy.com/dXICCcws9oxxK.gif)
 
@@ -264,7 +259,7 @@ _versus_
 
 ### 2. Communities
 
-> Get involved 
+> Get involved
 
 > Get out of your comfort zone and talk to people
 
