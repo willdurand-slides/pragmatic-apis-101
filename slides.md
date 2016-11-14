@@ -161,7 +161,7 @@ _versus_
 
 ----
 
-### Co-founder of
+#### Co-founder of
 
 ![](images/logo-comsource.jpg)
 
@@ -172,8 +172,6 @@ _versus_
 ----
 
 #### Co-founder of
-
-### [@clermontech](https://twitter.com/clermontech)
 
 ![](/images/logo-clermontech.png)
 
