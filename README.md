@@ -1,12 +1,8 @@
-# Pragmatic APIs 101
+# `$ ./academia2industry`
 
 ## Abstract
 
-Over the last five years, I have studied REST and HTTP APIs a lot. Nowadays,
-everyone claims to have a REST API, yet the REST architecture is complex and not
-really practicable in real life. In this talk, we will see that it does not
-matter to be 100% REST-compliant, and above all, how to build an API in a
-pragmatic manner.
+A talk about my professional experiences from academic research to industry.
 
 ## About the slides
 
