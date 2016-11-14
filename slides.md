@@ -42,7 +42,7 @@ Montpellier -- 2016/11/15
 **1998** -- Baccalauréat
 {fragment}
 
-**1999 - 2000** -- PCEM1, Paris 7 :boom:
+**1999 - 2000** -- PCEM1, Paris 7
 {fragment}
 
 **2001** -- DEUG2 SNV, Paris 7
@@ -148,7 +148,7 @@ Hexokinase induced fit. Source: [wikipedia](https://en.wikipedia.org/wiki/Enzyme
 
 ----
 
-### Permanent position :tada:
+### Permanent position
 #### [@ParisDiderot](https://twitter.com/ParisDiderot)
 
 **2008 - 2011** -- Research Engineer
