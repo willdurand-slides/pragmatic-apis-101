@@ -3,7 +3,7 @@
 #### Julien maupetit, PhD
 
 <small>
-Montpellier -- 2016/11/15
+Montpellier - 2016/11/15
 </small>
 
 ---
@@ -56,7 +56,7 @@ License & Maîtrise de Biochimie, Paris 7
 ![](/images/194-Designer_Insulins-4ajx.jpg)
 
 <small>
-Image credit: David S. Goodsell -- [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.doi.org/10.2210/rcsb_pdb/mom_2016_2)
+Image credit: David S. Goodsell - [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.doi.org/10.2210/rcsb_pdb/mom_2016_2)
 </small>
 
 ----
@@ -72,7 +72,7 @@ Image credit: David S. Goodsell -- [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.d
 
 ### Protein structure prediction
 
-**2005 - 2007** -- _PhD_
+**2005 - 2007** - _PhD_
 
 > Génération ab initio de modèles protéiques à
 partir de représentations discrètes des protéines
@@ -135,7 +135,7 @@ Hexokinase induced fit. Source: [wikipedia](https://en.wikipedia.org/wiki/Enzyme
 
 ### Teaching bio-informatics
 
-**2008** -- Assistant Professor
+**2008** - Assistant Professor
 
 ![](/images//sIRgRL2Jhyvh6.gif)
 
@@ -144,7 +144,7 @@ Hexokinase induced fit. Source: [wikipedia](https://en.wikipedia.org/wiki/Enzyme
 ### Permanent position
 #### [@ParisDiderot](https://twitter.com/ParisDiderot)
 
-**2008 - 2011** -- Research Engineer
+**2008 - 2011** - Research Engineer
 
 * [RPBS Platform](http://bioserv.rpbs.univ-paris-diderot.fr/index.html)
 * `(bio|chemo)`-informatics
