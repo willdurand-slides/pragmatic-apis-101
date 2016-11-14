@@ -1,4 +1,4 @@
-## `$ ./academia2industry`
+# `$ ./academia2industry`
 
 #### Julien maupetit, PhD
 

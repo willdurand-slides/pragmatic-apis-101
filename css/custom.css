@@ -1,3 +1,9 @@
+body {
+  background-image: url('/images/logo-tailordev.png');
+  background-repeat: no-repeat;
+  background-position: 1em calc(100% - 1em);
+}
+
 img {
     border: 0 !important;
     box-shadow: none !important;
@@ -6,4 +12,9 @@ img {
 
 .no-bullet li {
     list-style-type: none;
+}
+
+section:first-child h1 {
+  text-transform: none;
+  font-size: 1.6em;
 }
