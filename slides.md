@@ -39,27 +39,21 @@ Montpellier -- 2016/11/15
 
 ### _I'll be a MD_
 
-**1998** -- Baccalauréat
-{fragment}
-
-**1999 - 2000** -- PCEM1, Paris 7
-{fragment}
-
-**2001** -- DEUG2 SNV, Paris 7
-{fragment}
+* **1998** - Baccalauréat
+* **1999 - 2000** - PCEM1, Paris 7
+* **2001** - DEUG2 SNV, Paris 7
 
 ![](http://i.giphy.com/3o7aTskHEUdgCQAXde.gif)
-{fragment}
+<!-- .element: class="fragment" -->
 
 ----
 
-### Bio$\chi$
+### BioX
 
-**2002 - 2003** -- License & Maîtrise de Biochimie, Paris 7
-{fragment}
+**2002 - 2003**
+License & Maîtrise de Biochimie, Paris 7
 
 ![](https://cdn.rcsb.org/pdb101/motm/images/194-Designer_Insulins-4ajx.jpg)
-{fragment}
 
 <small>
 Image credit: David S. Goodsell -- [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.doi.org/10.2210/rcsb_pdb/mom_2016_2)
@@ -69,11 +63,10 @@ Image credit: David S. Goodsell -- [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.d
 
 ### Bio-informatics FTW
 
-**2004** -- DEA AGM2, Paris 7
-{fragment}
+**2004** - DEA AGM2, Paris 7
 
 ![](http://i.giphy.com/SfFGKJ4NbYyhG.gif)
-{fragment}
+<!-- .element: class="fragment" -->
 
 ----
 
@@ -168,7 +161,7 @@ _versus_
 
 ----
 
-### Co-founder of ComSource
+### Co-founder of
 
 ![](images/logo-comsource.jpg)
 
@@ -221,11 +214,8 @@ _versus_
 #### as a Service
 
 * **Technical consultant**: introduce new tools & technologies, best coding practices, etc.
-{fragment}
 * **Developers**: structure, open and mine research data (data modeling, APIs, interfaces)
-{fragment}
 * Research labs from both Academia & the Industry
-{fragment}
 
 ----
 
